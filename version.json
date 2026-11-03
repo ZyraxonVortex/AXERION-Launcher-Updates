@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "versionCode": 7,
-  "downloadUrl": "https://github.com/ZyraxonVortex/AXERION-Launcher-Updates/releases/download/v1.0.6/AXERION-Launcher-1.0.6.zip",
-  "sha256": "ED7DBB270BD07492999D7E4DB254CD08BBDC46304C374AFE95FF77599840F6BD",
-  "releaseNotes": "AXERION Launcher 1.0.6. Исправлена публикация и установка обновлений."
+  "version": "1.0.7",
+  "versionCode": 8,
+  "downloadUrl": "https://github.com/ZyraxonVortex/AXERION-Launcher-Updates/releases/download/v1.0.7/AXERION-Launcher-1.0.7.zip",
+  "sha256": "40DBC304FA5B0282A18AADA4D4C1FAD72C0C5BF3D8B6E395B8B794FDD8CC059C",
+  "releaseNotes": "AXERION Launcher 1.0.7. Исправлено удаление архива после установки обновления."
 }
